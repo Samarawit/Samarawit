@@ -1,0 +1,29 @@
+<!doctype html
+<html>
+<head>
+<meta charset="utf-8">
+meta name ="viewport"content="width=device-width">
+<title>replit</title>
+<link htef="style.css"rel="stylesheet"type="text/css"/>
+</head>
+<body>
+<h1>image link and table </h1>
+<a href="https://www.facebook.com
+<img src="https://www.facebook.co./images/fb.icon_325×325.png"width="logo"></a>
+<p><a href="www.google.com">this word</a>is link to another site </p>
+<ul>
+<li>item 1</li>
+<li>item 2</li>
+</ul>
+<table border="spx">
+<tr>
+<th>list 1</th>
+<th>list 2</th>
+</tr>
+<tr>
+<td>item 1</td>
+<td>item 2</td>
+</tr>
+</table>
+</body>
+</html>
